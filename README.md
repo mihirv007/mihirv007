@@ -20,7 +20,7 @@
 
 📌 Focused on building practical, real-life problem solving projects.
 
-🤝 Open to collaboration on AI, ML, IoT, and Web Development projects linkden:https://www.linkedin.com/in/mihir-verma-380559266/
+🤝 Open to collaboration on AI, ML, IoT, and Web Development projects linkedin:https://www.linkedin.com/in/mihir-verma-380559266/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mihir-verma-380559266/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6cKN1XPBs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mihirverma4067) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mihir Verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirverma000@gmail.com) 
